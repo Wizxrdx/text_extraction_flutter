@@ -1,5 +1,4 @@
 # tflite_text_extraction
-
 Text Extraction from captured images.
 
 ## models used
