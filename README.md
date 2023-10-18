@@ -1,4 +1,4 @@
-# tflite_text_extraction
+# text_extraction_flutter
 Text Extraction from captured images.
 
 ## models used
